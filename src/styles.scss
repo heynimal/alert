@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~ngx-toastr/toastr.css';
+#toast-container > div {
+    opacity: 1;
+  }
+
+  @import "~bootstrap/scss/bootstrap.scss";
+
+  .bg-img {
+    background-image: url('/assets/01.jpg');
+    // background-position: center;
+    background-repeat: no-repeat;
+    // background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    // height: 100%;
+  }
+
+  
