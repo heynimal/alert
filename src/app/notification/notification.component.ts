@@ -15,7 +15,7 @@ export class NotificationComponent implements OnInit {
   }  
 
    showToaster(){
-    this.toastr.success("Hello, <h1> hi </h1>")
+    this.toastr.success("Hello, I'm the toastr message.")
 } 
 
 
